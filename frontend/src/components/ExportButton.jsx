@@ -18,13 +18,7 @@ function ExportButton({ hospitals }) {
             bookType: "xlsx",
             type: "array"
         });
-        const data = new Blob(
-            [excelBuffer],
-            {
-                type:
-                    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet;charset=UTF-8"
-            }
-        );
+        
          const blob = new Blob([excelBuffer], {
            type: "application/octet-stream",
         });
