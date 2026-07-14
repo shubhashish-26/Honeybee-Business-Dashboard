@@ -1,9 +1,23 @@
+![dashboard1](https://github.com/user-attachments/assets/2e67b2b8-9245-4f6b-84df-c5f8af02cda9)![dashboard1](https://github.com/user-attachments/assets/ffa9a6bb-db60-4820-81c8-d6f562d700a1)![dashboard1](https://github.com/user-attachments/assets/78ceab9c-f8c3-47da-a2b8-feacd34ca320)
 # 🏥 Honeybee Business Dashboard
-
-A Full Stack Hospital Analytics Dashboard built using React, Flask, SQLite, and Chart.js. This application allows users to search, filter, sort, and analyze hospital data through an interactive dashboard.
-
+A Full-Stack Business Dashboard built with React, Flask, SQLite and BeautifulSoup.
+---
+## 📸 Dashboard Preview
 ---
 
+## 🌐 Live Demo
+
+### Frontend (Vercel)
+https://YOUR-VERCEL-URL.vercel.app
+
+### Backend API
+https://mohanty95.pythonanywhere.com
+
+### Hospitals API
+https://mohanty95.pythonanywhere.com/hospitals
+
+A Full Stack Hospital Analytics Dashboard built using React, Flask, SQLite, and Chart.js. This application allows users to search, filter, sort, and analyze hospital data through an interactive dashboard.
+---
 ## ✨ Features
 
 - 🔍 Search hospitals by name
