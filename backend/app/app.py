@@ -197,7 +197,7 @@ def source_count():
 if __name__ == "__main__":
     app.run(debug=True)
     
-@app.route("/stats")
+
 def stats():
 
     conn = get_connection()
