@@ -1,11 +1,6 @@
-![dashboard2](https://github.com/user-attachments/assets/937cb688-3e53-4d98-b6ff-d3b5c3149a4b) 
+
 # 🏥 Honeybee Business Dashboard
 A Full-Stack Business Dashboard built with React, Flask, SQLite and BeautifulSoup
-
-## Output image
-![Uploading dashboard1.png…]()
-![dashboard2](https://github.com/user-attachments/assets/c8abec39-0cb3-40ce-bcd8-3b6a05b8c929)
-
 
 ## 🌐 Live Demo
 ### Frontend (Vercel)
