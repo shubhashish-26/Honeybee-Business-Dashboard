@@ -16,7 +16,6 @@ A Full Stack Hospital Analytics Dashboard built using React, Flask, SQLite, and 
 - 🌐 Hospital Source Chart
 - 📋 Top Rated Hospitals Table
 - 🌙 Dark Mode
-- 🔐 Login Page
 - 📥 Export to Excel
 - 📄 Export to PDF
 - ⚡ Responsive UI
