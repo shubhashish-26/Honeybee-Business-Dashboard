@@ -97,7 +97,6 @@ npm start
 - Filters & Sorting
 - Analytics Charts
 - Export Reports
-- Login System
 
 ---
 
