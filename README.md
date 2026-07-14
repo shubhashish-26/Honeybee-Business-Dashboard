@@ -1,15 +1,16 @@
-![dashboard1](https://github.com/user-attachments/assets/2e67b2b8-9245-4f6b-84df-c5f8af02cda9)![dashboard1](https://github.com/user-attachments/assets/ffa9a6bb-db60-4820-81c8-d6f562d700a1)![dashboard1](https://github.com/user-attachments/assets/78ceab9c-f8c3-47da-a2b8-feacd34ca320)
+![dashboard2](https://github.com/user-attachments/assets/937cb688-3e53-4d98-b6ff-d3b5c3149a4b) 
 # 🏥 Honeybee Business Dashboard
-A Full-Stack Business Dashboard built with React, Flask, SQLite and BeautifulSoup.
----
-## 📸 Dashboard Preview
----
+A Full-Stack Business Dashboard built with React, Flask, SQLite and BeautifulSoup
+
+## Output image
+![Uploading dashboard1.png…]()
+![dashboard2](https://github.com/user-attachments/assets/c8abec39-0cb3-40ce-bcd8-3b6a05b8c929)
+
 
 ## 🌐 Live Demo
-
 ### Frontend (Vercel)
-https://YOUR-VERCEL-URL.vercel.app
-
+https://honeybee-business-dashboard-two.vercel.app/
+ 
 ### Backend API
 https://mohanty95.pythonanywhere.com
 
@@ -93,17 +94,12 @@ pip install -r requirements.txt
 cd app
 python app.py
 ```
-
 ### Frontend
-
 ```bash
 cd frontend
 npm install
 npm start
 ```
-
----
-
 ## 📊 Dashboard Modules
 
 - Dashboard Overview
