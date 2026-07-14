@@ -1,4 +1,4 @@
-const API = "http://127.0.0.1:5000";
+const API_URL = "https://mohanty95.pythonanywhere.com";
 
 export async function getHospitals() {
 
