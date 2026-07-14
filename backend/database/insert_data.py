@@ -2,7 +2,12 @@ import sqlite3
 import pandas as pd
 from datetime import datetime
 
-df = pd.read_csv("../output/business_listings.csv")
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+csv_path = os.path.join(BASE_DIR, "output", "business_listings.csv")
+
+df = pd.read_csv(csv_path)
 
 # Rename CSV columns
 df.columns = [
